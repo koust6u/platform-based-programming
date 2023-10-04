@@ -3,7 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\koust\AppData\Roaming\JetBrains\IntelliJIdea2022.3\plugins\activity-tracker\45.csv">
+        <entry key="C:\Users\koust\AppData\Roaming\JetBrains\IntelliJIdea2022.3\plugins\activity-tracker\46.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\koust\AppData\Roaming\JetBrains\IntelliJIdea2022.3\plugins\activity-tracker\47.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -126,6 +133,13 @@
           <value>
             <Attribute>
               <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\org\example\week4\EmployeeRepository\45.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
