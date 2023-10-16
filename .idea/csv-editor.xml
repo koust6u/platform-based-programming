@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\koust\AppData\Roaming\JetBrains\IntelliJIdea2022.3\plugins\activity-tracker\54.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Users\koust\AppData\Roaming\JetBrains\IntelliJIdea2022.3\plugins\activity-tracker\ide-events.csv">
           <value>
             <Attribute>
