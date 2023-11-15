@@ -1,0 +1,825 @@
+2023-11-01T20:01:42.510+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:43.511+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:44.512+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:45.513+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:46.515+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:47.516+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:48.517+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:49.519+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:50.520+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:51.522+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:01:52.522+09:00,koust,IdeState,Active,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:01:53.523+09:00,koust,IdeState,Active,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:01:54.342+09:00,koust,KeyEvent,65535:18:8,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:01:54.394+09:00,koust,Action,ActivateProjectToolWindow,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:01:54.407+09:00,koust,KeyEvent,49:49:8,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:01:54.524+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:01:55.525+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:01:56.530+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:01:57.531+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:01:58.533+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:01:59.535+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:00.536+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:01.537+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:02.539+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:03.540+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:04.542+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:05.543+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:06.543+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:07.544+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:08.544+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:09.545+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:10.546+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:11.547+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:12.548+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:13.549+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:14.549+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:15.550+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:16.550+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:17.551+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:18.551+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:19.552+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:20.552+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:02:21.561+09:00,koust,IdeState,Active,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:02:21.971+09:00,koust,Action,$Delete,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:02:22.427+09:00,koust,KeyEvent,10:10:0,Lab,Popup,,,-1,-1,변경
+2023-11-01T20:02:22.486+09:00,koust,KeyEvent,100:68:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:22.610+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:23.084+09:00,koust,KeyEvent,65535:17:2,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:23.119+09:00,koust,KeyEvent,65535:16:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:23.333+09:00,koust,Action,NewClass,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:23.375+09:00,koust,KeyEvent,3:67:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:23.613+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:24.615+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:24.873+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:24.883+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.040+09:00,koust,KeyEvent,65535:17:2,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.056+09:00,koust,KeyEvent,65535:16:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.591+09:00,koust,KeyEvent,27:27:0,,,,,-1,-1,
+2023-11-01T20:02:25.616+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.842+09:00,koust,KeyEvent,65535:17:2,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.860+09:00,koust,KeyEvent,65535:16:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:25.967+09:00,koust,Action,NewDir,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.002+09:00,koust,KeyEvent,16:80:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.273+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.519+09:00,koust,KeyEvent,70:70:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.617+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.873+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:26.876+09:00,koust,KeyEvent,8:8:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:27.065+09:00,koust,KeyEvent,71:71:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:27.619+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:27.692+09:00,koust,KeyEvent,101:69:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:27.815+09:00,koust,KeyEvent,110:78:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:28.256+09:00,koust,KeyEvent,101:69:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:28.308+09:00,koust,KeyEvent,114:82:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:28.620+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:29.358+09:00,koust,KeyEvent,105:73:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:29.428+09:00,koust,KeyEvent,99:67:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:29.622+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:29.684+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.130+09:00,koust,KeyEvent,67:67:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.576+09:00,koust,KeyEvent,108:76:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.623+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.681+09:00,koust,KeyEvent,97:65:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.769+09:00,koust,KeyEvent,115:83:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:30.958+09:00,koust,KeyEvent,115:83:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:31.196+09:00,koust,KeyEvent,10:10:0,,,,,-1,-1,
+2023-11-01T20:02:31.625+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:32.058+09:00,koust,KeyEvent,65535:17:2,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:32.076+09:00,koust,KeyEvent,65535:16:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:32.376+09:00,koust,Action,NewClass,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:32.391+09:00,koust,KeyEvent,3:67:3,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:32.626+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:33.628+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:34.629+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:35.631+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:36.632+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:37.634+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:38.635+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:39.637+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:40.638+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:41.639+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:42.641+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:43.642+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:44.645+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:45.647+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:46.648+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:47.650+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:47.847+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:47.916+09:00,koust,KeyEvent,65:65:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:48.191+09:00,koust,KeyEvent,114:82:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:48.363+09:00,koust,KeyEvent,114:82:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:48.552+09:00,koust,KeyEvent,97:65:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:48.651+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:48.773+09:00,koust,KeyEvent,116:84:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.401+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.403+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.591+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.594+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.652+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.728+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:49.730+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:50.652+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:51.653+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:52.654+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:53.655+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:54.656+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:55.658+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:56.659+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.279+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.281+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.451+09:00,koust,Action,EditorBackSpace,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.454+09:00,koust,KeyEvent,8:8:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.486+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.627+09:00,koust,KeyEvent,71:71:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.660+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:57.868+09:00,koust,KeyEvent,101:69:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:58.479+09:00,koust,KeyEvent,110:78:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:58.662+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:58.836+09:00,koust,KeyEvent,101:69:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:58.889+09:00,koust,KeyEvent,114:82:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:59.264+09:00,koust,KeyEvent,105:73:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:59.317+09:00,koust,KeyEvent,99:67:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:59.629+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:02:59.663+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.138+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.169+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.199+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.230+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.259+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.304+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.313+09:00,koust,KeyEvent,67:67:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.569+09:00,koust,KeyEvent,108:76:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.664+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.694+09:00,koust,KeyEvent,97:65:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:00.952+09:00,koust,KeyEvent,115:83:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.090+09:00,koust,KeyEvent,115:83:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.244+09:00,koust,KeyEvent,65535:16:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.402+09:00,koust,KeyEvent,84:84:1,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.607+09:00,koust,KeyEvent,101:69:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.666+09:00,koust,IdeState,Active,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.713+09:00,koust,KeyEvent,115:83:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:01.869+09:00,koust,KeyEvent,116:84:0,Lab,Project,,,-1,-1,변경
+2023-11-01T20:03:02.375+09:00,koust,KeyEvent,10:10:0,,,,,-1,-1,
+2023-11-01T20:03:02.668+09:00,koust,IdeState,Active,Lab,Dialog,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.184+09:00,koust,KeyEvent,10:10:0,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.527+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.604+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.607+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.672+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.722+09:00,koust,Action,ActivateProjectToolWindow,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:03.726+09:00,koust,KeyEvent,49:49:8,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:04.673+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:05.674+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,30,변경
+2023-11-01T20:03:06.675+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:03:07.676+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:03:08.677+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,31,변경
+2023-11-01T20:03:08.697+09:00,koust,Action,EditorEnter,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,2,31,변경
+2023-11-01T20:03:08.794+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,3,4,변경
+2023-11-01T20:03:08.829+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,3,4,변경
+2023-11-01T20:03:08.887+09:00,koust,Action,EditorPaste,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,3,4,변경
+2023-11-01T20:03:09.046+09:00,koust,KeyEvent,22:86:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,29,5,변경
+2023-11-01T20:03:09.679+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,29,5,변경
+2023-11-01T20:03:10.680+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,29,5,변경
+2023-11-01T20:03:10.735+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,29,5,변경
+2023-11-01T20:03:11.683+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,4,0,변경
+2023-11-01T20:03:12.612+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:12.684+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.124+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.152+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.182+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.212+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.257+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.287+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.317+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.357+09:00,koust,Action,ShowIntentionActions,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,5,30,변경
+2023-11-01T20:03:13.418+09:00,koust,KeyEvent,10:10:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,7,30,변경
+2023-11-01T20:03:13.685+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,7,30,변경
+2023-11-01T20:03:14.686+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,7,30,변경
+2023-11-01T20:03:14.993+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,7,30,변경
+2023-11-01T20:03:14.997+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,8,0,변경
+2023-11-01T20:03:15.194+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,8,0,변경
+2023-11-01T20:03:15.196+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,9,30,변경
+2023-11-01T20:03:15.348+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,9,30,변경
+2023-11-01T20:03:15.350+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,10,0,변경
+2023-11-01T20:03:15.506+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,10,0,변경
+2023-11-01T20:03:15.508+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,11,30,변경
+2023-11-01T20:03:15.574+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,11,30,변경
+2023-11-01T20:03:15.575+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,12,0,변경
+2023-11-01T20:03:15.687+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,12,0,변경
+2023-11-01T20:03:15.971+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,12,0,변경
+2023-11-01T20:03:15.973+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,13,30,변경
+2023-11-01T20:03:16.193+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,13,30,변경
+2023-11-01T20:03:16.195+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,14,0,변경
+2023-11-01T20:03:16.688+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,14,0,변경
+2023-11-01T20:03:17.689+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,14,0,변경
+2023-11-01T20:03:18.096+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:18.150+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:18.161+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:18.690+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:18.793+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.249+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.266+09:00,koust,KeyEvent,65535:17:3,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.426+09:00,koust,Action,NewClass,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.442+09:00,koust,KeyEvent,3:67:3,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.692+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:19.818+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.326+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.356+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.386+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.431+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.436+09:00,koust,KeyEvent,77:77:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.674+09:00,koust,KeyEvent,121:89:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:20.693+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.129+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.270+09:00,koust,KeyEvent,65:65:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.680+09:00,koust,KeyEvent,114:82:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.695+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.799+09:00,koust,KeyEvent,114:82:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:21.904+09:00,koust,KeyEvent,97:65:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:22.092+09:00,koust,KeyEvent,121:89:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:22.416+09:00,koust,KeyEvent,65535:16:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:22.696+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:22.735+09:00,koust,KeyEvent,76:76:1,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:22.991+09:00,koust,KeyEvent,105:73:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:23.027+09:00,koust,KeyEvent,115:83:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:23.199+09:00,koust,KeyEvent,116:84:0,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:23.698+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:03:24.516+09:00,koust,KeyEvent,10:10:0,,,,,-1,-1,
+2023-11-01T20:03:24.699+09:00,koust,IdeState,Active,Lab,Dialog,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:25.125+09:00,koust,KeyEvent,65535:18:8,Lab,Dialog,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:25.701+09:00,koust,IdeState,Active,Lab,Dialog,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:26.345+09:00,koust,KeyEvent,27:27:0,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:26.702+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:27.704+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:28.705+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:29.706+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:30.711+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:31.712+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:32.714+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:33.715+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:34.713+09:00,koust,Action,Git.Add,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:34.753+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:35.754+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.139+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.175+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.178+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.532+09:00,koust,KeyEvent,65535:18:8,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.569+09:00,koust,Action,ActivateProjectToolWindow,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.575+09:00,koust,KeyEvent,49:49:8,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:36.755+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:37.093+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:37.182+09:00,koust,KeyEvent,60:44:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,25,변경
+2023-11-01T20:03:37.458+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,26,변경
+2023-11-01T20:03:37.766+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,26,변경
+2023-11-01T20:03:38.425+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,26,변경
+2023-11-01T20:03:38.655+09:00,koust,KeyEvent,84:84:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,26,변경
+2023-11-01T20:03:38.801+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,27,변경
+2023-11-01T20:03:38.928+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,27,변경
+2023-11-01T20:03:39.000+09:00,koust,KeyEvent,62:46:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,27,변경
+2023-11-01T20:03:39.802+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,28,변경
+2023-11-01T20:03:39.881+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,28,변경
+2023-11-01T20:03:39.975+09:00,koust,Action,EditorStartNewLine,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,28,변경
+2023-11-01T20:03:39.982+09:00,koust,KeyEvent,10:10:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:40.804+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:41.805+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:42.806+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:43.808+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:03:44.810+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:03:45.432+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:45.451+09:00,koust,Action,EditorPaste,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:45.489+09:00,koust,KeyEvent,22:86:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,23,5,변경
+2023-11-01T20:03:45.812+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,23,5,변경
+2023-11-01T20:03:46.813+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,37,변경
+2023-11-01T20:03:47.220+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,29,변경
+2023-11-01T20:03:47.814+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,29,변경
+2023-11-01T20:03:47.964+09:00,koust,Action,EditorEnter,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,2,29,변경
+2023-11-01T20:03:47.975+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:48.815+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:49.816+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:50.817+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:51.819+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:52.820+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:53.821+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:54.823+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:55.824+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:56.826+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:57.362+09:00,koust,KeyEvent,112:80:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,4,변경
+2023-11-01T20:03:57.602+09:00,koust,KeyEvent,114:82:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,5,변경
+2023-11-01T20:03:57.827+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,6,변경
+2023-11-01T20:03:58.193+09:00,koust,KeyEvent,105:73:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,6,변경
+2023-11-01T20:03:58.299+09:00,koust,KeyEvent,118:86:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,7,변경
+2023-11-01T20:03:58.420+09:00,koust,KeyEvent,97:65:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,8,변경
+2023-11-01T20:03:58.541+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,9,변경
+2023-11-01T20:03:58.697+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,10,변경
+2023-11-01T20:03:58.788+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,11,변경
+2023-11-01T20:03:58.828+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:03:58.990+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:03:59.219+09:00,koust,KeyEvent,83:83:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:03:59.649+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,13,변경
+2023-11-01T20:03:59.669+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:03:59.829+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:03:59.904+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:00.063+09:00,koust,KeyEvent,60:44:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:00.557+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,13,변경
+2023-11-01T20:04:00.560+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:00.780+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:00.835+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.283+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.313+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.358+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.428+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.639+09:00,koust,KeyEvent,60:44:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,12,변경
+2023-11-01T20:04:01.745+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,13,변경
+2023-11-01T20:04:01.837+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,13,변경
+2023-11-01T20:04:01.851+09:00,koust,KeyEvent,84:84:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,13,변경
+2023-11-01T20:04:02.026+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,14,변경
+2023-11-01T20:04:02.062+09:00,koust,KeyEvent,62:46:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,14,변경
+2023-11-01T20:04:02.473+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,15,변경
+2023-11-01T20:04:02.838+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,16,변경
+2023-11-01T20:04:03.840+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,16,변경
+2023-11-01T20:04:04.509+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,16,변경
+2023-11-01T20:04:04.598+09:00,koust,KeyEvent,76:76:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,16,변경
+2023-11-01T20:04:04.805+09:00,koust,KeyEvent,105:73:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,17,변경
+2023-11-01T20:04:04.840+09:00,koust,KeyEvent,115:83:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,18,변경
+2023-11-01T20:04:04.862+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:04.978+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:05.134+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,20,변경
+2023-11-01T20:04:05.238+09:00,koust,KeyEvent,60:44:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,20,변경
+2023-11-01T20:04:05.464+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,21,변경
+2023-11-01T20:04:05.623+09:00,koust,KeyEvent,84:84:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,21,변경
+2023-11-01T20:04:05.648+09:00,koust,KeyEvent,82:82:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:05.864+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,23,변경
+2023-11-01T20:04:05.958+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,23,변경
+2023-11-01T20:04:05.970+09:00,koust,KeyEvent,8:8:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:06.707+09:00,koust,Action,EditorEscape,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:06.713+09:00,koust,KeyEvent,27:27:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:06.866+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:07.350+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,22,변경
+2023-11-01T20:04:07.352+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,21,변경
+2023-11-01T20:04:07.811+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,21,변경
+2023-11-01T20:04:07.813+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,20,변경
+2023-11-01T20:04:07.867+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,20,변경
+2023-11-01T20:04:08.002+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,20,변경
+2023-11-01T20:04:08.004+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:08.544+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:08.869+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:08.880+09:00,koust,Action,ShowIntentionActions,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,3,19,변경
+2023-11-01T20:04:08.915+09:00,koust,KeyEvent,10:10:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,18,변경
+2023-11-01T20:04:09.458+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,18,변경
+2023-11-01T20:04:09.460+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,17,변경
+2023-11-01T20:04:09.628+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,17,변경
+2023-11-01T20:04:09.630+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,16,변경
+2023-11-01T20:04:09.834+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,16,변경
+2023-11-01T20:04:09.836+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:09.870+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:10.005+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:10.005+09:00,koust,KeyEvent,65535:16:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:10.079+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:10.083+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,14,변경
+2023-11-01T20:04:10.270+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,14,변경
+2023-11-01T20:04:10.272+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:10.871+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:10.904+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:10.905+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,12,변경
+2023-11-01T20:04:11.249+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,12,변경
+2023-11-01T20:04:11.254+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,12,변경
+2023-11-01T20:04:11.812+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,12,변경
+2023-11-01T20:04:11.813+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:11.872+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:12.313+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,13,변경
+2023-11-01T20:04:12.315+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,14,변경
+2023-11-01T20:04:12.344+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,14,변경
+2023-11-01T20:04:12.345+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:12.389+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,15,변경
+2023-11-01T20:04:12.391+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,16,변경
+2023-11-01T20:04:12.419+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,16,변경
+2023-11-01T20:04:12.421+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,17,변경
+2023-11-01T20:04:12.593+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,17,변경
+2023-11-01T20:04:12.595+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,18,변경
+2023-11-01T20:04:12.765+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,18,변경
+2023-11-01T20:04:12.767+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,19,변경
+2023-11-01T20:04:12.873+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,19,변경
+2023-11-01T20:04:13.106+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,19,변경
+2023-11-01T20:04:13.111+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,0,변경
+2023-11-01T20:04:13.530+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,0,변경
+2023-11-01T20:04:13.532+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,19,변경
+2023-11-01T20:04:13.836+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,19,변경
+2023-11-01T20:04:13.875+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,20,변경
+2023-11-01T20:04:14.210+09:00,koust,KeyEvent,109:77:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,20,변경
+2023-11-01T20:04:14.298+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,21,변경
+2023-11-01T20:04:14.810+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,22,변경
+2023-11-01T20:04:14.813+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,21,변경
+2023-11-01T20:04:14.876+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,21,변경
+2023-11-01T20:04:15.233+09:00,koust,KeyEvent,121:89:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,21,변경
+2023-11-01T20:04:15.471+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,22,변경
+2023-11-01T20:04:15.877+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,22,변경
+2023-11-01T20:04:16.088+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,22,변경
+2023-11-01T20:04:16.264+09:00,koust,KeyEvent,65:65:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,22,변경
+2023-11-01T20:04:16.673+09:00,koust,KeyEvent,114:82:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,23,변경
+2023-11-01T20:04:16.827+09:00,koust,KeyEvent,114:82:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,24,변경
+2023-11-01T20:04:16.878+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,25,변경
+2023-11-01T20:04:16.985+09:00,koust,KeyEvent,97:65:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,25,변경
+2023-11-01T20:04:17.156+09:00,koust,KeyEvent,121:89:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,26,변경
+2023-11-01T20:04:17.518+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,27,변경
+2023-11-01T20:04:17.780+09:00,koust,KeyEvent,76:76:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,27,변경
+2023-11-01T20:04:17.879+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,28,변경
+2023-11-01T20:04:17.971+09:00,koust,KeyEvent,105:73:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,28,변경
+2023-11-01T20:04:18.042+09:00,koust,KeyEvent,115:83:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,29,변경
+2023-11-01T20:04:18.162+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,30,변경
+2023-11-01T20:04:18.336+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,31,변경
+2023-11-01T20:04:18.425+09:00,koust,KeyEvent,61:61:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,32,변경
+2023-11-01T20:04:18.512+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,33,변경
+2023-11-01T20:04:18.852+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,34,변경
+2023-11-01T20:04:18.880+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,34,변경
+2023-11-01T20:04:19.424+09:00,koust,KeyEvent,110:78:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,34,변경
+2023-11-01T20:04:19.526+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,35,변경
+2023-11-01T20:04:19.558+09:00,koust,KeyEvent,119:87:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,36,변경
+2023-11-01T20:04:19.671+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,37,변경
+2023-11-01T20:04:19.775+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,38,변경
+2023-11-01T20:04:19.863+09:00,koust,KeyEvent,65:65:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,38,변경
+2023-11-01T20:04:19.883+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,39,변경
+2023-11-01T20:04:20.157+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,39,변경
+2023-11-01T20:04:20.250+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,50,변경
+2023-11-01T20:04:20.884+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,50,변경
+2023-11-01T20:04:20.968+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,50,변경
+2023-11-01T20:04:20.969+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,51,변경
+2023-11-01T20:04:21.257+09:00,koust,KeyEvent,59:59:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,51,변경
+2023-11-01T20:04:21.886+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:22.036+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:22.038+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:22.226+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:22.228+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:22.467+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:22.469+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:22.888+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:23.889+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:23.972+09:00,koust,Action,EditorUp,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:23.974+09:00,koust,KeyEvent,65535:38:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:24.377+09:00,koust,Action,EditorUp,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:24.379+09:00,koust,KeyEvent,65535:38:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:24.802+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:24.804+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:24.890+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:25.193+09:00,koust,Action,EditorUp,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:25.195+09:00,koust,KeyEvent,65535:38:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:25.452+09:00,koust,Action,EditorUp,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,38,변경
+2023-11-01T20:04:25.454+09:00,koust,KeyEvent,65535:38:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:25.623+09:00,koust,Action,EditorUp,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:25.625+09:00,koust,KeyEvent,65535:38:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,29,변경
+2023-11-01T20:04:25.891+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,29,변경
+2023-11-01T20:04:25.947+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,5,29,변경
+2023-11-01T20:04:25.948+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:26.205+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:26.205+09:00,koust,KeyEvent,65535:16:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:26.312+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,52,변경
+2023-11-01T20:04:26.314+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,51,변경
+2023-11-01T20:04:26.487+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,51,변경
+2023-11-01T20:04:26.489+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,50,변경
+2023-11-01T20:04:26.629+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,50,변경
+2023-11-01T20:04:26.630+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,49,변경
+2023-11-01T20:04:26.751+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,49,변경
+2023-11-01T20:04:26.753+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,48,변경
+2023-11-01T20:04:26.892+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,48,변경
+2023-11-01T20:04:26.910+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,48,변경
+2023-11-01T20:04:26.912+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,47,변경
+2023-11-01T20:04:27.087+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,47,변경
+2023-11-01T20:04:27.088+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,38,변경
+2023-11-01T20:04:27.263+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,38,변경
+2023-11-01T20:04:27.264+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,34,변경
+2023-11-01T20:04:27.438+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,34,변경
+2023-11-01T20:04:27.440+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,32,변경
+2023-11-01T20:04:27.774+09:00,koust,Action,EditorPreviousWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,32,변경
+2023-11-01T20:04:27.776+09:00,koust,KeyEvent,65535:37:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,20,변경
+2023-11-01T20:04:27.893+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,20,변경
+2023-11-01T20:04:28.073+09:00,koust,Action,EditorNextWordWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,20,변경
+2023-11-01T20:04:28.075+09:00,koust,KeyEvent,65535:39:3,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:28.433+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:28.437+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:28.705+09:00,koust,KeyEvent,108:76:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:28.894+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,32,변경
+2023-11-01T20:04:29.399+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,32,변경
+2023-11-01T20:04:29.403+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:29.896+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:29.976+09:00,koust,KeyEvent,59:59:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,31,변경
+2023-11-01T20:04:30.451+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,6,32,변경
+2023-11-01T20:04:30.453+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,32,변경
+2023-11-01T20:04:30.605+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,7,32,변경
+2023-11-01T20:04:30.607+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:30.898+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:31.030+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:31.032+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:31.556+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:31.558+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,10,0,변경
+2023-11-01T20:04:31.676+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,10,0,변경
+2023-11-01T20:04:31.840+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,10,0,변경
+2023-11-01T20:04:31.842+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:31.899+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:32.014+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:32.016+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:32.500+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:32.503+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:32.840+09:00,koust,Action,EditorEnter,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,8,0,변경
+2023-11-01T20:04:32.846+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,8,변경
+2023-11-01T20:04:32.900+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,8,변경
+2023-11-01T20:04:33.615+09:00,koust,KeyEvent,109:77:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,8,변경
+2023-11-01T20:04:33.754+09:00,koust,KeyEvent,121:89:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,9,변경
+2023-11-01T20:04:33.901+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,10,변경
+2023-11-01T20:04:34.651+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,10,변경
+2023-11-01T20:04:34.666+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,19,변경
+2023-11-01T20:04:34.902+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,19,변경
+2023-11-01T20:04:35.076+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,19,변경
+2023-11-01T20:04:35.314+09:00,koust,KeyEvent,61:61:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,20,변경
+2023-11-01T20:04:35.402+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,21,변경
+2023-11-01T20:04:35.693+09:00,koust,KeyEvent,110:78:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,22,변경
+2023-11-01T20:04:35.798+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,23,변경
+2023-11-01T20:04:35.833+09:00,koust,KeyEvent,119:87:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,24,변경
+2023-11-01T20:04:35.903+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:35.941+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,25,변경
+2023-11-01T20:04:36.059+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,26,변경
+2023-11-01T20:04:36.236+09:00,koust,KeyEvent,65:65:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,26,변경
+2023-11-01T20:04:36.813+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,27,변경
+2023-11-01T20:04:36.842+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,38,변경
+2023-11-01T20:04:36.905+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,38,변경
+2023-11-01T20:04:37.907+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,38,변경
+2023-11-01T20:04:38.909+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,38,변경
+2023-11-01T20:04:39.828+09:00,koust,KeyEvent,99:67:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,38,변경
+2023-11-01T20:04:39.910+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,39,변경
+2023-11-01T20:04:40.556+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,39,변경
+2023-11-01T20:04:40.577+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,46,변경
+2023-11-01T20:04:40.912+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,46,변경
+2023-11-01T20:04:41.116+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,46,변경
+2023-11-01T20:04:41.118+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,47,변경
+2023-11-01T20:04:41.458+09:00,koust,KeyEvent,59:59:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,47,변경
+2023-11-01T20:04:41.917+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,48,변경
+2023-11-01T20:04:42.069+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,9,48,변경
+2023-11-01T20:04:42.070+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,10,5,변경
+2023-11-01T20:04:42.274+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,10,5,변경
+2023-11-01T20:04:42.276+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,11,0,변경
+2023-11-01T20:04:42.480+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,11,0,변경
+2023-11-01T20:04:42.482+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,12,0,변경
+2023-11-01T20:04:42.721+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,12,0,변경
+2023-11-01T20:04:42.723+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:04:42.875+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:04:42.877+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:42.917+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:43.030+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:43.032+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:43.404+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:43.406+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,25,변경
+2023-11-01T20:04:43.919+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,25,변경
+2023-11-01T20:04:43.946+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,25,변경
+2023-11-01T20:04:43.948+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,17,0,변경
+2023-11-01T20:04:44.369+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,17,0,변경
+2023-11-01T20:04:44.405+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,17,0,변경
+2023-11-01T20:04:44.407+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,25,변경
+2023-11-01T20:04:44.564+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,25,변경
+2023-11-01T20:04:44.566+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:44.921+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:45.236+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:45.241+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:45.794+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,0,변경
+2023-11-01T20:04:45.800+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:45.922+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:45.999+09:00,koust,Action,EditorEnter,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,14,29,변경
+2023-11-01T20:04:46.005+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,8,변경
+2023-11-01T20:04:46.589+09:00,koust,KeyEvent,109:77:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,8,변경
+2023-11-01T20:04:46.677+09:00,koust,KeyEvent,121:89:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,9,변경
+2023-11-01T20:04:46.923+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,10,변경
+2023-11-01T20:04:46.966+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,10,변경
+2023-11-01T20:04:47.037+09:00,koust,KeyEvent,65:65:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,10,변경
+2023-11-01T20:04:47.229+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,11,변경
+2023-11-01T20:04:47.243+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,19,변경
+2023-11-01T20:04:47.433+09:00,koust,KeyEvent,46:46:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,19,변경
+2023-11-01T20:04:47.623+09:00,koust,KeyEvent,97:65:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,20,변경
+2023-11-01T20:04:47.711+09:00,koust,KeyEvent,100:68:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,21,변경
+2023-11-01T20:04:47.884+09:00,koust,KeyEvent,100:68:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,22,변경
+2023-11-01T20:04:47.924+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,23,변경
+2023-11-01T20:04:48.242+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,23,변경
+2023-11-01T20:04:48.255+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:48.583+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:48.925+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.080+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.125+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.156+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.185+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.215+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.316+09:00,koust,KeyEvent,100:68:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,24,변경
+2023-11-01T20:04:49.404+09:00,koust,KeyEvent,97:65:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,25,변경
+2023-11-01T20:04:49.577+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,26,변경
+2023-11-01T20:04:49.714+09:00,koust,KeyEvent,97:65:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,27,변경
+2023-11-01T20:04:49.926+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,28,변경
+2023-11-01T20:04:50.098+09:00,koust,KeyEvent,27:27:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,28,변경
+2023-11-01T20:04:50.227+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,28,변경
+2023-11-01T20:04:50.229+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,5,변경
+2023-11-01T20:04:50.400+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,16,5,변경
+2023-11-01T20:04:50.402+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,17,0,변경
+2023-11-01T20:04:50.554+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,17,0,변경
+2023-11-01T20:04:50.556+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:04:50.693+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:04:50.694+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,19,0,변경
+2023-11-01T20:04:50.928+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,19,0,변경
+2023-11-01T20:04:50.988+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,19,0,변경
+2023-11-01T20:04:50.990+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,20,28,변경
+2023-11-01T20:04:51.143+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,20,28,변경
+2023-11-01T20:04:51.144+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:51.297+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:51.298+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:51.433+09:00,koust,Action,EditorDown,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:51.435+09:00,koust,KeyEvent,65535:40:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,23,0,변경
+2023-11-01T20:04:51.757+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,23,0,변경
+2023-11-01T20:04:51.811+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,23,0,변경
+2023-11-01T20:04:51.813+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:51.929+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:51.987+09:00,koust,Action,EditorUpWithSelection,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:51.989+09:00,koust,KeyEvent,65535:38:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:52.420+09:00,koust,Action,EditorBackSpace,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:52.424+09:00,koust,KeyEvent,8:8:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:52.828+09:00,koust,Action,EditorEnter,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,21,0,변경
+2023-11-01T20:04:52.833+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,8,변경
+2023-11-01T20:04:52.930+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,8,변경
+2023-11-01T20:04:53.251+09:00,koust,KeyEvent,109:77:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,8,변경
+2023-11-01T20:04:53.293+09:00,koust,KeyEvent,121:89:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,9,변경
+2023-11-01T20:04:53.527+09:00,koust,KeyEvent,65535:16:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,10,변경
+2023-11-01T20:04:53.632+09:00,koust,KeyEvent,65:65:1,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,10,변경
+2023-11-01T20:04:53.790+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,11,변경
+2023-11-01T20:04:53.802+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,19,변경
+2023-11-01T20:04:53.931+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,19,변경
+2023-11-01T20:04:53.977+09:00,koust,KeyEvent,46:46:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,19,변경
+2023-11-01T20:04:54.154+09:00,koust,KeyEvent,103:71:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,20,변경
+2023-11-01T20:04:54.321+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,21,변경
+2023-11-01T20:04:54.475+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,22,변경
+2023-11-01T20:04:54.932+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,23,변경
+2023-11-01T20:04:54.949+09:00,koust,Action,EditorChooseLookupItem,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,23,변경
+2023-11-01T20:04:54.962+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,24,변경
+2023-11-01T20:04:55.523+09:00,koust,KeyEvent,105:73:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,24,변경
+2023-11-01T20:04:55.730+09:00,koust,KeyEvent,110:78:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:55.818+09:00,koust,KeyEvent,100:68:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,26,변경
+2023-11-01T20:04:55.934+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,27,변경
+2023-11-01T20:04:55.938+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,27,변경
+2023-11-01T20:04:56.127+09:00,koust,KeyEvent,120:88:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,28,변경
+2023-11-01T20:04:56.199+09:00,koust,Action,EditorRight,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,29,변경
+2023-11-01T20:04:56.200+09:00,koust,KeyEvent,65535:39:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,30,변경
+2023-11-01T20:04:56.454+09:00,koust,KeyEvent,59:59:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,30,변경
+2023-11-01T20:04:56.864+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,31,변경
+2023-11-01T20:04:56.866+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,30,변경
+2023-11-01T20:04:56.935+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,30,변경
+2023-11-01T20:04:57.377+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,30,변경
+2023-11-01T20:04:57.379+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,29,변경
+2023-11-01T20:04:57.408+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,29,변경
+2023-11-01T20:04:57.410+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,28,변경
+2023-11-01T20:04:57.438+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,28,변경
+2023-11-01T20:04:57.439+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,27,변경
+2023-11-01T20:04:57.468+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,27,변경
+2023-11-01T20:04:57.470+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,26,변경
+2023-11-01T20:04:57.497+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,26,변경
+2023-11-01T20:04:57.499+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:57.543+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,25,변경
+2023-11-01T20:04:57.544+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,24,변경
+2023-11-01T20:04:57.572+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,24,변경
+2023-11-01T20:04:57.574+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,23,변경
+2023-11-01T20:04:57.602+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,23,변경
+2023-11-01T20:04:57.604+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,22,변경
+2023-11-01T20:04:57.633+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,22,변경
+2023-11-01T20:04:57.635+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,21,변경
+2023-11-01T20:04:57.663+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,21,변경
+2023-11-01T20:04:57.664+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,20,변경
+2023-11-01T20:04:57.707+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,20,변경
+2023-11-01T20:04:57.709+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,19,변경
+2023-11-01T20:04:57.738+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,19,변경
+2023-11-01T20:04:57.739+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,18,변경
+2023-11-01T20:04:57.768+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,18,변경
+2023-11-01T20:04:57.769+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,17,변경
+2023-11-01T20:04:57.798+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,17,변경
+2023-11-01T20:04:57.799+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,16,변경
+2023-11-01T20:04:57.828+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,16,변경
+2023-11-01T20:04:57.829+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,15,변경
+2023-11-01T20:04:57.873+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,15,변경
+2023-11-01T20:04:57.875+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,14,변경
+2023-11-01T20:04:57.903+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,14,변경
+2023-11-01T20:04:57.904+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,13,변경
+2023-11-01T20:04:57.932+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,13,변경
+2023-11-01T20:04:57.934+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,12,변경
+2023-11-01T20:04:57.936+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,12,변경
+2023-11-01T20:04:58.510+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,12,변경
+2023-11-01T20:04:58.512+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,11,변경
+2023-11-01T20:04:58.683+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,11,변경
+2023-11-01T20:04:58.684+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,10,변경
+2023-11-01T20:04:58.836+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,10,변경
+2023-11-01T20:04:58.838+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,9,변경
+2023-11-01T20:04:58.937+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,9,변경
+2023-11-01T20:04:59.027+09:00,koust,Action,EditorLeft,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,9,변경
+2023-11-01T20:04:59.028+09:00,koust,KeyEvent,65535:37:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,8,변경
+2023-11-01T20:04:59.416+09:00,koust,KeyEvent,114:82:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,8,변경
+2023-11-01T20:04:59.474+09:00,koust,KeyEvent,101:69:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,9,변경
+2023-11-01T20:04:59.609+09:00,koust,KeyEvent,116:84:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,10,변경
+2023-11-01T20:04:59.661+09:00,koust,KeyEvent,117:85:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,11,변경
+2023-11-01T20:04:59.783+09:00,koust,KeyEvent,114:82:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,12,변경
+2023-11-01T20:04:59.871+09:00,koust,KeyEvent,110:78:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,13,변경
+2023-11-01T20:04:59.938+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,14,변경
+2023-11-01T20:04:59.960+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,14,변경
+2023-11-01T20:05:00.939+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,22,15,변경
+2023-11-01T20:05:01.939+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:05:02.047+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:05:02.083+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:05:02.095+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:05:02.940+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,18,0,변경
+2023-11-01T20:05:03.075+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:03.124+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:03.127+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:03.277+09:00,koust,Action,ActivateProjectToolWindow,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:03.281+09:00,koust,KeyEvent,49:49:8,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:03.941+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,23,34,변경
+2023-11-01T20:05:04.943+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:05.944+09:00,koust,IdeState,Active,Lab,Popup,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:06.945+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:07.948+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:08.950+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:09.953+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/GenericClassTest.java,,22,0,변경
+2023-11-01T20:05:10.962+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,29,변경
+2023-11-01T20:05:11.963+09:00,koust,IdeState,Active,Lab,Build,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,29,변경
+2023-11-01T20:05:12.964+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,29,변경
+2023-11-01T20:05:13.299+09:00,koust,KeyEvent,59:59:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,29,변경
+2023-11-01T20:05:13.474+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:13.619+09:00,koust,Action,ChooseRunConfiguration,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:13.673+09:00,koust,KeyEvent,10:10:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:13.812+09:00,koust,KeyEvent,10:10:0,,,,,-1,-1,
+2023-11-01T20:05:14.012+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:15.014+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:16.015+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:17.016+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:17.489+09:00,koust,Execution,"Run:'애플리케이션: GenericClassTest':C:\Users\koust\.jdks\corretto-17.0.9\bin\java.exe ""-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\lib\idea_rt.jar=58461:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin"" -Dfile.encoding=UTF-8 -classpath ""C:\Users\koust\OneDrive\바탕 화면\github\platform-based-programming\out\production\classes"" org.example.week6.GenericClass.GenericClassTest",Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:18.019+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:18.751+09:00,koust,KeyEvent,118:86:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:18.956+09:00,koust,KeyEvent,49:49:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:19.020+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:19.096+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:19.266+09:00,koust,KeyEvent,118:86:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:19.556+09:00,koust,KeyEvent,50:50:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:19.680+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.021+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.188+09:00,koust,KeyEvent,49:97:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.257+09:00,koust,KeyEvent,48:96:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.347+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.502+09:00,koust,KeyEvent,50:98:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.573+09:00,koust,KeyEvent,48:96:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:20.751+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:21.022+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:22.024+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:22.096+09:00,koust,KeyEvent,65535:17:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:22.291+09:00,koust,Action,ChooseRunConfiguration,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:22.308+09:00,koust,KeyEvent,10:10:2,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:22.451+09:00,koust,KeyEvent,10:10:0,,,,,-1,-1,
+2023-11-01T20:05:23.026+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:23.455+09:00,koust,Execution,"Run:'애플리케이션: GenericClassTest':C:\Users\koust\.jdks\corretto-17.0.9\bin\java.exe ""-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\lib\idea_rt.jar=58466:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin"" -Dfile.encoding=UTF-8 -classpath ""C:\Users\koust\OneDrive\바탕 화면\github\platform-based-programming\out\production\classes"" org.example.week6.GenericClass.GenericClassTest",Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.012+09:00,koust,KeyEvent,107:75:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.027+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.235+09:00,koust,KeyEvent,105:73:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.440+09:00,koust,KeyEvent,109:77:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.646+09:00,koust,KeyEvent,49:49:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:24.819+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.029+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.176+09:00,koust,KeyEvent,115:83:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.316+09:00,koust,KeyEvent,117:85:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.556+09:00,koust,KeyEvent,110:78:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.591+09:00,koust,KeyEvent,103:71:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.815+09:00,koust,KeyEvent,50:50:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:25.956+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:26.030+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:26.632+09:00,koust,KeyEvent,50:50:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:26.822+09:00,koust,KeyEvent,48:48:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.012+09:00,koust,KeyEvent,48:48:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.031+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.152+09:00,koust,KeyEvent,32:32:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.341+09:00,koust,KeyEvent,49:49:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.430+09:00,koust,KeyEvent,48:48:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.602+09:00,koust,KeyEvent,48:48:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:27.761+09:00,koust,KeyEvent,10:10:0,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:28.033+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:29.034+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:30.035+09:00,koust,IdeState,Active,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,15,30,변경
+2023-11-01T20:05:31.036+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:32.037+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:33.038+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:34.040+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:35.042+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:35.510+09:00,koust,KeyEvent,65535:18:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:35.581+09:00,koust,Action,ActivateProjectToolWindow,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:35.591+09:00,koust,KeyEvent,49:49:8,Lab,Editor,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:36.045+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:37.046+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:38.047+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:39.048+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:40.052+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:41.054+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:42.055+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:43.056+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:44.057+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:45.058+09:00,koust,IdeState,Active,Lab,Project,C:/Users/koust/OneDrive/바탕 화면/github/platform-based-programming/src/main/java/org/example/week6/GenericClass/MyArrayList.java,,13,0,변경
+2023-11-01T20:05:46.059+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:47.060+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:48.062+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:49.064+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:50.065+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:51.066+09:00,koust,IdeState,Inactive,,,,,-1,-1,
+2023-11-01T20:05:52.067+09:00,koust,IdeState,Inactive,,,,,-1,-1,
